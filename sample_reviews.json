@@ -1,0 +1,22 @@
+[
+  {
+    "text": "I absolutely loved the new update!",
+    "expected_label": "positive"
+  },
+  {
+    "text": "This app keeps crashing all the time.",
+    "expected_label": "negative"
+  },
+  {
+    "text": "It’s okay, not great but not bad either.",
+    "expected_label": "neutral"
+  },
+  {
+    "text": "The support team was so helpful and kind!",
+    "expected_label": "positive"
+  },
+  {
+    "text": "The UI feels clunky and outdated.",
+    "expected_label": "negative"
+  }
+]
